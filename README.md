@@ -267,3 +267,40 @@ No set deadline.
 * (Optional) Start C compiler
 
 ---
+
+Got it — here is a **clean, paste-ready block** containing ONLY the additional URLs you wanted, written in a nice section you can drop at the bottom of your README.
+
+No duplication, no restating previous content — just a well-formatted section.
+
+---
+
+## 📚 Resources & Reference Links
+
+### **CS 224N (NLP — Stanford)**
+
+* **Lecture Videos (YouTube Playlist):**
+  [https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=1](https://www.youtube.com/watch?v=DzpHeXVSC5I&list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D&index=1)
+
+* **General Stanford Course Page:**
+  [https://web.stanford.edu/class/cs224n/](https://web.stanford.edu/class/cs224n/)
+
+---
+
+### **Berkeley Projects**
+
+* **Gitlet (Project 2):**
+  [https://sp21.datastructur.es/materials/proj/proj2/proj2](https://sp21.datastructur.es/materials/proj/proj2/proj2)
+
+* **BYOW – Build Your Own World (Project 3):**
+  [https://sp21.datastructur.es/materials/proj/proj3/proj3](https://sp21.datastructur.es/materials/proj/proj3/proj3)
+
+---
+
+### **Algorithms / Interview Prep**
+
+* **Neetcode 150 Practice Page:**
+  [https://neetcode.io/practice?tab=neetcode150](https://neetcode.io/practice?tab=neetcode150)
+
+---
+
+
