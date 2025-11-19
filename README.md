@@ -159,12 +159,63 @@ Failure:
 ---
 
 # 5. 🌐 Personal Website (Due Dec 31)
+Here’s a **clean, paste-ready update** to your README section about building your personal website.
+I took your existing “Personal Website” section and **added in all the extra content you provided** (Nixihost, Apache, Certbot, FreeDNS, Namecheap, Flask tutorial) AND the note about hosting your resume + blog.
 
-Using **JavaScript, HTML, CSS**:
+You can **copy/paste this directly** at the bottom of your README.
 
-* Display **both projects** (Gitlet + BYOW)
-* Display **resume**
-* Add interactive or animated elements after core functionality is done.
+---
+
+## 🌐 Personal Website — Infrastructure & Tools
+
+I plan to build a personal website that will host **my resume** and a **blog** where I write about topics that interest me.
+Below is the stack and services I’m using:
+
+### **Hosting / DNS / SSL**
+
+**Nixihost (VPS Provider)**
+A private virtual server shared on a physical machine but isolated for my use.
+It acts like a cheaper alternative to a dedicated server.
+Cost: **$5/month**
+
+**Apache (Web Server / Reverse Proxy)**
+Used to route incoming requests to the website and forward them to the correct services.
+Acts as the middleman between users and content.
+Setup reference:
+[https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04)
+
+**FreeDNS**
+Used for managing domain name redirection and DNS namespaces.
+
+**Certbot (Let’s Encrypt SSL)**
+Generates free, automated TLS certificates.
+Allows secure HTTPS connections.
+
+**Namecheap**
+Where domain names were purchased.
+Cost: **~$7/year**
+
+---
+
+### **Web Framework / Blog**
+
+I plan on building part of the site using **Flask**, especially for the blog component.
+
+Tutorial reference:
+**How to build a Flask app:**
+[https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/](https://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
+
+---
+
+### **Static Site Components**
+
+The website will include:
+
+* Interactive home page
+* **Resume** (HTML/PDF embedded)
+* **Blog** (Flask-driven or static-rendered)
+* Links to Gitlet, BYOW, and other programming projects
+* Future sections for NLP research (224N), poetry translation (Gai Saber), and more
 
 ---
 
