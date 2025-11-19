@@ -22,6 +22,216 @@ Deadlines are grouped by semester and ordered by priority.
 | **CS 224N Final Project (GPT-2)**          | After Jan 16 |
 | **Optional: Write a C Compiler**           | No deadline  |
 
+
+Low-Level Deadlines
+
+
+Got it — let’s make a **more detailed and specific calendar**, week-by-week with realistic expectations. I’ll break it into **tasks per project per week**, estimating hours where reasonable. I’ll assume today is **Nov 18, 2025**, and the main deadlines are:
+
+* Gitlet, BYOW, Personal Website → **Dec 31**
+* CS 224N Lectures + HWs → **Jan 16** (but acknowledge that finishing everything may extend)
+* Neetcode 150 → **Feb 1**
+* GPT-2 final project (Gai Saber) → after Jan 16
+
+I’ll aim for a **balanced workload**, factoring in realistic completion times.
+
+---
+
+# 📆 Programming Calendar (Nov 18 → Feb 1, 2026)
+
+---
+
+## **🟪 NOVEMBER 18–30**
+
+**Goals:** Refactor Gitlet & BYOW, start merge, basic website setup, light Neetcode.
+
+### **Nov 18–23**
+
+* **Gitlet**
+
+  * SOLID refactor: separate Repository, Commit, Blob logic (5–6 hours)
+  * Plan merge algorithm (2–3 hours)
+* **BYOW**
+
+  * Clean up world generation code (2–3 hours)
+* **Website**
+
+  * Set up VPS, Apache, domain, SSL (3–4 hours)
+* **Neetcode**
+
+  * 2–3 easy problems (1–2 hours/day)
+
+### **Nov 24–30**
+
+* **Gitlet**
+
+  * Implement Split Point algorithm (3–4 hours)
+  * Start handling simple merge cases (modified in one branch) (3–4 hours)
+* **BYOW**
+
+  * Refactor room generation + map logic (3–4 hours)
+* **Website**
+
+  * Skeleton for homepage and project pages (3–4 hours)
+* **Neetcode**
+
+  * Continue 2–3/day (1–2 hours/day)
+
+---
+
+## **🟩 DECEMBER 2025**
+
+**Goals:** Gitlet full merge + remote commands, BYOW upgrades, launch personal site, Neetcode steady progress.
+
+### **Dec 1–7**
+
+* **Gitlet**
+
+  * Complete all merge file-case logic (6–8 hours)
+  * Begin conflict handler (2–3 hours)
+* **BYOW**
+
+  * Implement optional terrain features or small improvements (3–4 hours)
+* **Website**
+
+  * Basic blog Flask setup (3–4 hours)
+* **Neetcode**
+
+  * Solve ~12–14 problems this week (2 hours/day)
+
+### **Dec 8–14**
+
+* **Gitlet**
+
+  * Implement add-remote, rm-remote (3–4 hours)
+  * Test merge with multiple branches (3–4 hours)
+* **BYOW**
+
+  * Test enhancements + bug fixes (2–3 hours)
+* **Website**
+
+  * Start deploying local Flask project on VPS (3–4 hours)
+* **Neetcode**
+
+  * 12–14 problems this week
+
+### **Dec 15–21**
+
+* **Gitlet**
+
+  * Implement push, fetch, pull (5–6 hours)
+  * Write tests for remote commands (3–4 hours)
+* **BYOW**
+
+  * Polish visuals / tile rendering / HUD (3–4 hours)
+* **Website**
+
+  * Resume page + project showcase complete (3–4 hours)
+* **Neetcode**
+
+  * 12–14 problems (2 hours/day)
+
+### **Dec 22–31**
+
+* **Gitlet**
+
+  * Final integration testing, debugging (6–8 hours)
+  * Documentation polish (2 hours)
+* **BYOW**
+
+  * Final touches, commit fully working version (3–4 hours)
+* **Website**
+
+  * Deploy blog live with basic posts (3–4 hours)
+* **Neetcode**
+
+  * Maintain 2/day or catch up if behind (1–2 hours/day)
+
+> **Deadlines:** Gitlet, BYOW, Personal Website → Dec 31
+
+---
+
+## **🟦 JANUARY 2026 (Jan 1–16)**
+
+**Goals:** CS 224N Lectures + HWs (partial realistic), Neetcode, GPT-2 planning.
+
+> Note: Completing all lectures + HWs by Jan 16 may be tight; focus on core HWs first.
+
+### **Jan 1–4**
+
+* **CS 224N**
+
+  * Lectures 1–5 (watch + take notes) (3–4 hours/day)
+  * HW1: Word vectors and basic NLP (3–4 hours total)
+* **Neetcode**
+
+  * 3–4 problems/day (1–2 hours/day)
+
+### **Jan 5–11**
+
+* **CS 224N**
+
+  * Lectures 6–12 (3–4 hours/day)
+  * HW2: Dependency parsing (3–4 hours total)
+* **Neetcode**
+
+  * 3–4 problems/day
+
+### **Jan 12–16**
+
+* **CS 224N**
+
+  * Lectures 13–23 (2–3 hours/day)
+  * HW3–5: Try to complete essentials (may need to extend into late Jan)
+* **Neetcode**
+
+  * 3–4 problems/day
+* **GPT-2 planning**
+
+  * Begin reading GPT-2 papers + PyTorch starter templates (1–2 hours/day)
+
+---
+
+## **🟥 JAN 17 – FEB 1**
+
+**Goals:** Neetcode completion, GPT-2 final project setup & initial prototype.
+
+### **Jan 17–23**
+
+* **Neetcode**
+
+  * Focus on final problems (4–5/day, 2 hours/day)
+* **GPT-2**
+
+  * Implement model skeleton
+  * Tokenizer / dataset pipeline
+  * Test on small text samples
+
+### **Jan 24–31**
+
+* **Neetcode**
+
+  * Finish remaining problems (2–3/day)
+* **GPT-2**
+
+  * Start training small-scale GPT-2
+  * Experiment with poetry translation pipeline
+
+### **Feb 1**
+
+* **Neetcode 150 complete** 🎉
+* GPT-2 prototype ongoing
+
+---
+
+# **Tips for Staying on Track**
+
+* Track **daily tasks in a simple planner** (even 1–2 lines/day).
+* Always finish **1 small module per project per week**.
+* If behind on CS 224N, prioritize **HW completion over lectures**.
+* Reserve weekends for **longer work sessions** (~4–6 hours) on Gitlet / BYOW / Website during Nov–Dec.
+
+
 ---
 
 # 1. 🔧 Code Refactoring / SOLID Work
