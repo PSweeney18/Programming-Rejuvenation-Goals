@@ -26,17 +26,6 @@ Deadlines are grouped by semester and ordered by priority.
 Low-Level Deadlines
 
 
-Got it — let’s make a **more detailed and specific calendar**, week-by-week with realistic expectations. I’ll break it into **tasks per project per week**, estimating hours where reasonable. I’ll assume today is **Nov 18, 2025**, and the main deadlines are:
-
-* Gitlet, BYOW, Personal Website → **Dec 31**
-* CS 224N Lectures + HWs → **Jan 16** (but acknowledge that finishing everything may extend)
-* Neetcode 150 → **Feb 1**
-* GPT-2 final project (Gai Saber) → after Jan 16
-
-I’ll aim for a **balanced workload**, factoring in realistic completion times.
-
----
-
 # 📆 Programming Calendar (Nov 18 → Feb 1, 2026)
 
 ---
